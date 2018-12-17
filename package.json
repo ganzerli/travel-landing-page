@@ -1,0 +1,15 @@
+{
+  "name": "landing-travel",
+  "version": "1.0.0",
+  "description": "landing page for travel agency",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Massimo Ganzerli",
+  "license": "ISC",
+  "homepage": "https://ganzerli.github.io/landing-travel-page",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
